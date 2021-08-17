@@ -7,7 +7,6 @@ body{
     padding:15px 0;
     background-color: #ffffff;
 }
-
 .header-content{
     display:flex;
     flex-direction: row;
@@ -16,7 +15,6 @@ body{
     border:0px solid blue;
     text-align: left;
 }
-
 .logo-content{
     display: flex;
     flex-direction: row;
